@@ -1,0 +1,26 @@
+{
+    "width": 32,
+    "height": 32,
+    "actions": {
+        "idle": {
+            "right": {
+                "row": 0,
+                "frames": 13
+            },
+            "left": {
+                "row": 8,
+                "frames": 13
+            }
+        },
+        "run": {
+            "right": {
+                "row": 1,
+                "frames": 8
+            },
+            "left": {
+                "row": 9,
+                "frames": 8
+            }
+        }
+    }
+}
